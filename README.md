@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" />, I am Sean Knowles
 
-![Twitter Follow](https://img.shields.io/twitter/follow/JuniorDEVed?style=flat)  ![GitHub watchers](https://img.shields.io/github/watchers/JuniorDEVed/JuniorDEVed?style=flat)
+![Twitter Follow](https://img.shields.io/twitter/follow/JuniorDEVed?style=social)  ![GitHub watchers](https://img.shields.io/github/watchers/JuniorDEVed/JuniorDEVed?style=social)
 
 ---
 
@@ -9,6 +9,14 @@ An aspiring full stack software engineer with a focus on JavaScript, Go and the 
 I am also starting my journey creating tech content with a focus on microservice and micro frontend architecture, future javascript trends, deno, golang and serverless stacks. Subscribe to stay up to date!
 
 I am slowly building an online presence through an open source project called JuniorDEV.life, my Medium blog and also our YouTube channel, which have zero views at the moment but I am really looking forward to building a subscriber base to pass as much knowledge to future/aspiring developers.
+
+---
+
+🧰 Toolbox
+<br>
+
+<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JavaScript logo" />  <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/go/go-plain.svg" alt="JavaScript logo" />  <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="JavaScript logo" />  <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="JavaScript logo" />  <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="JavaScript logo" />  <img width="50" height="50" src="https://deno.land/logo.svg" alt="JavaScript logo" />  <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="JavaScript logo" />   <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" alt="JavaScript logo" />  <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" alt="JavaScript logo" />  <img width="53" height="53" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="JavaScript logo" />  <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="JavaScript logo" />  <img width="53" height="53" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="JavaScript logo" />  <img width="53" height="53" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="JavaScript logo" />  <img width="53" height="53" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" alt="JavaScript logo" />  <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="JavaScript logo" />  <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="JavaScript logo" />  <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="JavaScript logo" />
+
 
 <!--
 **freshlyDEVed/FreshlyDEVed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
