@@ -10,6 +10,8 @@ I am also starting my journey creating tech content with a focus on microservice
 
 I am slowly building an online presence through an open source project called JuniorDEV.life, my Medium blog and also our YouTube channel, which have zero views at the moment but I am really looking forward to building a subscriber base to pass as much knowledge to future/aspiring developers.
 
+I am soon to graduate from Strive School an intense 6 month full stack software engineering bootcamp with a focus on the MERN Stack.
+
 ---
 
 🧰 Toolbox
