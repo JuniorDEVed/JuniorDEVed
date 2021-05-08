@@ -21,7 +21,7 @@ I am soon to graduate from Strive School an intense 6 month full stack software 
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorDEVed&hide=java,html,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuniorDEVed&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorDEVed&hide=java,html,css&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuniorDEVed&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **freshlyDEVed/FreshlyDEVed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
