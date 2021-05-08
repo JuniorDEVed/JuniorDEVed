@@ -4,9 +4,9 @@
 
 ---
 
-An aspiring full stack software engineer with a focus on JavaScript, Go and the ever evolving React/frontend space. My experience with various technologies are listed in the **toolbox** below.
+An aspiring full stack software engineer with a focus on JavaScript/TypeScript, Deno, Go and the ever evolving frontend space which include React, Next, Svelte. My exposure and experiences with various technologies are listed in the **toolbox** below.
 
-I am also starting my journey creating tech content with a focus on microservice and micro frontend architecture, future javascript trends, deno, golang and serverless stacks. Subscribe to stay up to date!
+I am also starting my journey creating tech content with a focus on microservice and micro frontend architecture, future javascript trends, deno, golang and gcp serverless stack. Subscribe to stay up to date!
 
 I am slowly building an online presence through an open source project called JuniorDEV.life, a Medium blog and also a YouTube channel, which currently has zero views but I am really looking forward to building a subscriber base to bridge the knowledge gap for future and aspiring developers.
 
