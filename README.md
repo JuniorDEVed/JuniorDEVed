@@ -8,9 +8,9 @@ An aspiring full stack software engineer with a focus on JavaScript/TypeScript, 
 
 My exposure and experiences with various technologies are listed in the **toolbox** below.
 
-I am also starting my journey creating tech content with a focus on microservice and micro-frontend architecture, future javascript, Deno, Golang and GCP serverless stack. Subscribe to anyone of my channels stay up to date!
+I am also starting my journey creating tech content with a focus on microservice and micro-frontend architecture, future javascript, Deno, Golang and GCP serverless stack. Subscribe to anyone of my channels stay updated!
 
-I am one of several co-founders at juniordev.life a multi-user blogging platform which also doubles up as programmer lifestye recommendation service of which we've opened sourced and also founder of opsap.com an offshore document and career management platform for niche industries within the offshore oil and gas sector.
+I am one of several co-founders at juniordev.life a multi-user blogging platform which also doubles up as programmer lifestye recommendation service of which were planning on open sourcing and also the primary founder of opsap.com an offshore document and career management platform for niche industries within the offshore oil and gas sector.
 
 I am soon to graduate from Strive School an intense 6 month full stack software engineering bootcamp with a focus on the MERN Stack.
 
