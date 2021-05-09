@@ -4,9 +4,11 @@
 
 ---
 
-An aspiring full stack software engineer with a focus on JavaScript/TypeScript, Deno, Go and the ever evolving frontend space which include React, Next, Svelte. My exposure and experiences with various technologies are listed in the **toolbox** below.
+An aspiring full stack software engineer with a focus on JavaScript/TypeScript, Deno, Go and the ever evolving frontend space which includes React 17+, Next and the beautiful Svelte. 
 
-I am also starting my journey creating tech content with a focus on microservice and micro frontend architecture, future javascript trends, deno, golang and gcp serverless stack. Subscribe to stay up to date!
+My exposure and experiences with various technologies are listed in the **toolbox** below.
+
+I am also starting my journey creating tech content with a focus on microservice and micro-frontend architecture, future javascript, Deno, Golang and GCP serverless stack. Subscribe to anyone of my channels stay up to date!
 
 I am one of several co-founders at juniordev.life a multi-user blogging platform which also doubles up as programmer lifestye recommendation service of which we've opened sourced and also founder of opsap.com an offshore document and career management platform for niche industries within the offshore oil and gas sector.
 
