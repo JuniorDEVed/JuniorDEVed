@@ -10,7 +10,7 @@ My exposure and experiences with various technologies are listed in the **toolbo
 
 I am also starting my journey creating tech content with a focus on microservice and micro-frontend architecture, future javascript, Deno, Golang and GCP serverless stack. Subscribe to anyone of my channels stay updated!
 
-I am soon to graduate from Strive School an intense 6 month full stack software engineering bootcamp with a focus on the MERN Stack.
+I am soon to graduate out of Strive School, which is an intense full 6 month full stack software engineering program with a core focus on the MERN Stack.
 
 ---
 
