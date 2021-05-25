@@ -4,13 +4,15 @@
 
 ---
 
-An aspiring **full-stack software engineer** focusing on **JavaScript & TypeScript**, **Deno**, **Node**, **Go**, and the ever-evolving front-end space includes **React 17+**, **Next**, and the beautiful **Svelte**.
+An aspiring full-stack software engineer focusing on **JavaScript & TypeScript, Deno, Node, Go**, and the ever-evolving front-end space **React 17+, Next**, and the beautiful **Svelte**.
 
-My exposure and experiences with various technologies are listed in the **toolbox** section below. Go easy on me. I am still a junior 🚀 getting ready for launch!
+My exposure using various technologies are listed in the **toolbox** section below. Go easy on me I am still a junior developer 🚀 getting ready for launch!
 
-I publish regular tech content through my Medium blog and YouTube channel focusing on **backend-micro-services** and **micro-frontend** architecture, **ESNext**, **Deno**, **Golang** and **GCP serverless stack**. Subscribe or contact me on anyone of my outlets to stay updated, look foward to seeing you in the threads!
+I publish regular content through Medium articles and YouTube channel focusing on **backend-micro-services** and **micro-frontend architecture**, **ESNext, Deno, Golang** and **GCP serverless** stack. 
 
-I am also soon to graduate from **Strive School's** intense 6 month **full-stack software engineering** program of which is backed by the well known **YCombinator**. The core focus of the corriculum was the awesomely productive **MERN Stack**.
+Subscribe to my channels to stay updated, or contact me directly through LinkedIn to have a conversation. I would love to hear from you, let's talk shop!
+
+I am also soon to graduate from **Strive School's** intense 6-month full-stack software engineering program backed by **YCombinator**. The core curriculum's focus was on the awesomely productive **MERN Stack**.
 
 <p>
   <b>#juniordevforlife #beginnermindset #alwaysbestriving</b>
