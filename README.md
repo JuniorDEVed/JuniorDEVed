@@ -10,7 +10,7 @@ My exposure and experiences with various technologies are listed in the **toolbo
 
 I am also starting my journey creating tech content focusing on **micro-service** and **micro-frontend** architecture, **ESNext**, **Deno**, **Golang** and **GCP serverless stack**. Subscribe to anyone of my channels stay updated!
 
-I am soon to graduate from **Strive School**, an intense **6-month** full-stack software engineering program with a core focus on the **MERN Stack**.
+I am soon to graduate from **Strive School's** intense 6 month **full-stack engineering** program of which is backed by **YCombinator**, with a core corriculum focusing on the awesome **MERN Stack**.
 
 <p>
   <b>#juniordevforlife #beginnermindset #alwaysbestriving</b>
