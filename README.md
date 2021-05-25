@@ -11,9 +11,11 @@ My exposure and experiences with various technologies are listed in the **toolbo
 I am also starting my journey creating tech content with a focus on microservice and micro-frontend architecture, ESNext, Deno, Golang and GCP serverless stack. Subscribe to anyone of my channels stay updated!
 
 I am soon to graduate out of Strive School, which is an intense full 6 month full stack software engineering program with a core focus on the MERN Stack.
+<p>
+  <b>#juniordevforlife #beginnermindset #alwaysbestriving</b>
+</p>
 
 ---
-
 🧰 Toolbox
 <br>
 
@@ -21,7 +23,7 @@ I am soon to graduate out of Strive School, which is an intense full 6 month ful
 
 ---
   
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuniorDEVed&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) 
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuniorDEVed&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats) 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorDEVed&hide=java,html,css&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)-->
 <!--
 **freshlyDEVed/FreshlyDEVed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
