@@ -8,7 +8,7 @@ An aspiring full stack software engineer with a focus on JavaScript/TypeScript, 
 
 My exposure and experiences with various technologies are listed in the **toolbox** below.
 
-I am also starting my journey creating tech content with a focus on microservice and micro-frontend architecture, future javascript, Deno, Golang and GCP serverless stack. Subscribe to anyone of my channels stay updated!
+I am also starting my journey creating tech content with a focus on microservice and micro-frontend architecture, ESNext, Deno, Golang and GCP serverless stack. Subscribe to anyone of my channels stay updated!
 
 I am soon to graduate out of Strive School, which is an intense full 6 month full stack software engineering program with a core focus on the MERN Stack.
 
