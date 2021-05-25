@@ -4,13 +4,13 @@
 
 ---
 
-An aspiring full-stack software engineer focusing on JavaScript/TypeScript, Deno, Go, and the ever-evolving front-end space includes React 17+, Next, and the beautiful Svelte.
+An aspiring full-stack software engineer focusing on **JavaScript/TypeScript**, **Deno**, **Go**, and the ever-evolving front-end space includes **React 17+**, **Next**, and the beautiful **Svelte**.
 
-My exposure and experiences with various technologies are listed in the toolbox below. Go easy on me. I am still a junior 🚀 getting ready for launch!
+My exposure and experiences with various technologies are listed in the **toolbox** below. Go easy on me. I am still a junior 🚀 getting ready for launch!
 
-I am also starting my journey creating tech content focusing on microservice and micro-frontend architecture, ESNext, Deno, Golang and GCP serverless stack. Subscribe to anyone of my channels stay updated!
+I am also starting my journey creating tech content focusing on **microservice** and **micro-frontend** architecture, **ESNext**, **Deno**, **Golang** and **GCP serverless stack**. Subscribe to anyone of my channels stay updated!
 
-I am soon to graduate from Strive School, an intense 6-month full-stack software engineering program with a core focus on the MERN Stack.
+I am soon to graduate from **Strive School**, an intense **6-month** full-stack software engineering program with a core focus on the **MERN Stack**.
 
 <p>
   <b>#juniordevforlife #beginnermindset #alwaysbestriving</b>
