@@ -6,7 +6,7 @@
 
 An aspiring **full-stack software engineer** focusing on **JavaScript & TypeScript**, **Deno**, **Node**, **Go**, and the ever-evolving front-end space includes **React 17+**, **Next**, and the beautiful **Svelte**.
 
-My exposure and experiences with various technologies are listed in the **toolbox** below. Go easy on me. I am still a junior 🚀 getting ready for launch!
+My exposure and experiences with various technologies are listed in the **toolbox** section below. Go easy on me. I am still a junior 🚀 getting ready for launch!
 
 I publish regular tech content through my Medium blog and YouTube channel focusing on **backend-micro-services** and **micro-frontend** architecture, **ESNext**, **Deno**, **Golang** and **GCP serverless stack**. Subscribe or contact me on anyone of my outlets to stay updated, look foward to seeing you in the threads!
 
