@@ -8,7 +8,7 @@ An aspiring **full-stack software engineer** focusing on **JavaScript & TypeScri
 
 My exposure and experiences with various technologies are listed in the **toolbox** below. Go easy on me. I am still a junior 🚀 getting ready for launch!
 
-I have a blog and youtube channel and publish regular tech content with a focusing on **micro-service** and **micro-frontend** architecture, **ESNext**, **Deno**, **Golang** and **GCP serverless stack**. Subscribe or contact me on anyone of my outlets to stay updated, look foward to seeing you in the threads!
+I publish regular tech content through my Medium blog and YouTube channel and with a focusing on **micro-service** and **micro-frontend** architecture, **ESNext**, **Deno**, **Golang** and **GCP serverless stack**. Subscribe or contact me on anyone of my outlets to stay updated, look foward to seeing you in the threads!
 
 I am also soon to graduate from **Strive School's** intense 6 month **full-stack engineering** program of which is backed by **YCombinator**, with a core corriculum focusing on the awesome **MERN Stack**.
 
