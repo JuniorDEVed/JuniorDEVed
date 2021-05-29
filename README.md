@@ -12,7 +12,7 @@ I publish regular content through Medium articles and YouTube channel focusing o
 
 Subscribe to my channels to stay updated, or contact me directly through LinkedIn to have a conversation. I would love to hear from you, let's talk shop!
 
-I am also soon to graduate from **Strive School's** intense 6-month full-stack software engineering program backed by **YCombinator**. The core curriculum's focus was on the awesomely productive **MERN Stack**.
+I am also soon to graduate from **Strive School's** intense 6-month full-stack software engineering program backed by **YCombinator**. The core focus of the curriculum was to equip us with tooling that the the awesomely productive **MERN Stack** provides.
 
 <p>
   <b>#juniordevforlife #beginnermindset #alwaysbestriving</b>
