@@ -10,8 +10,6 @@ My exposure using various technologies are listed in the **toolbox** section bel
 
 <!--I publish regular content through Medium articles and YouTube channel focusing on **backend-micro-services** and **micro-frontend architecture**, **ESNext, Deno, Golang** and **GCP serverless** stack. -->
 
-Currently, I am looking for Cloud Native and Microservice Developer positions, I love the architecture and supporting technologies, what a time to be a developer!
-
 Also, I am a graduate of **Strive School's** intense 6-month full-stack software engineering program backed by **YCombinator**.
 
 <p>
