@@ -26,9 +26,9 @@ Also, I am a graduate of **Strive School's** intense 6-month full-stack software
 
 ---
   
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuniorDEVed&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=algoflows&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorDEVed&hide=java,html,css&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=algoflows&hide=java,html,css&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **freshlyDEVed/FreshlyDEVed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
