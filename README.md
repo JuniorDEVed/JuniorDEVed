@@ -4,9 +4,9 @@
 
 ---
 
-An aspiring full-stack software engineer focusing on **JavaScript & TypeScript, Deno, Node, Go**, and the ever-evolving front-end space **React 18+, React Native, NextJS**, and the beautiful **Svelte**.
+I am a full-stack emerging technology software engineer focusing on **JavaScript & TypeScript, Deno, Node, Go**, and the ever-evolving front-end space **React 18+, React Native, NextJS**, and the beautiful **Svelte**.
 
-My exposure using various technologies are listed in the **toolbox** section below. Go easy on me I am still a junior developer 🚀 getting ready for launch!
+My exposure using various technologies are listed in the **toolbox** section below!
 
 <!--I publish regular content through Medium articles and YouTube channel focusing on **backend-micro-services** and **micro-frontend architecture**, **ESNext, Deno, Golang** and **GCP serverless** stack. -->
 
