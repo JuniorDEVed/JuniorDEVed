@@ -2,10 +2,9 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/JuniorDEVed?style=social)  ![GitHub watchers](https://img.shields.io/github/watchers/JuniorDEVed/JuniorDEVed?style=social)
 
-|          Bio  |         Lang                                                     |
+|          About   |         Language exposure                                                     |
 |:-----------------------------|:--------------------------------------------------|
-| <img width=200 />  
-I am a full-stack emerging technology software engineer focusing on **JavaScript & TypeScript, Deno, Node, Go**, and the ever-evolving front-end space **React 18+, React Native, NextJS**, and the beautiful **Svelte**. | <img width=400 /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=algoflows&hide=java,html,css&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) |
+| I am a full-stack emerging technology software engineer focusing on **JavaScript & TypeScript, Deno, Node, Go**, and the ever-evolving front-end space **React 18+, React Native, NextJS**, and the beautiful **Svelte**. | <img width=200 /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=algoflows&hide=java,html,css&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) |
 
 <br>
 
