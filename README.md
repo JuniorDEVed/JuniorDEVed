@@ -2,9 +2,11 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/JuniorDEVed?style=social)  ![GitHub watchers](https://img.shields.io/github/watchers/JuniorDEVed/JuniorDEVed?style=social)
 
+ I am a full-stack emerging technology software engineer focusing on **JavaScript & TypeScript, Deno, Node, Go**, and the ever-evolving front-end space **React 18+, React Native, NextJS**, and the beautiful **Svelte**.
+
 |          About   |         Language exposure                                                     |
-|:-----------------------------|:--------------------------------------------------|
-| I am a full-stack emerging technology software engineer focusing on **JavaScript & TypeScript, Deno, Node, Go**, and the ever-evolving front-end space **React 18+, React Native, NextJS**, and the beautiful **Svelte**. | <img width=200 /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=algoflows&hide=java,html,css&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) |
+|:-----------------------------|:-----------------------:|
+| <img width=100 /> [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=algoflows&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)| <img width=100 /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=algoflows&hide=java,html,css&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) <br> |
 
 <br>
 
@@ -14,7 +16,7 @@
 
 <br>
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=algoflows&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
