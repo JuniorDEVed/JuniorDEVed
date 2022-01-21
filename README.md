@@ -3,8 +3,6 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/JuniorDEVed?style=social)  ![GitHub watchers](https://img.shields.io/github/watchers/JuniorDEVed/JuniorDEVed?style=social)
 
  I am a full-stack emerging technology software engineer focusing on **JavaScript & TypeScript, Deno, Node, Go**, and the ever-evolving front-end space **React 18+, React Native, NextJS**, and the beautiful **Svelte**.
- 
- <br>
 
 |          Stats   |         Exposure                                                     |
 |:-----------------------------|:-----------------------:|
