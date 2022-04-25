@@ -3,10 +3,10 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/JuniorDEVed?style=social)  ![GitHub watchers](https://img.shields.io/github/watchers/JuniorDEVed/JuniorDEVed?style=social)
 
  I am a full-stack software engineer focusing on **TypeScript, Deno, Node, Golang, GCP & AWS Serverless**, and the ever-evolving front-end space **React 18+, React Three Fiber, Threejs, React Native, NextJS**, and the beautiful **Svelte**.
+ 
+ ![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=algoflows&theme=vue-dark)
 
-|          Stats   |         Exposure                                                     |
-|:-----------------------------|:-----------------------:|
-| <img width=100 /> [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=algoflows&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)| <img width=100 /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=algoflows&hide=java,html,css&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) <br> |
+<!-- | <img width=100 /> (https://github.com/anuraghazra/github-readme-stats)| <img width=100 /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=algoflows&hide=java,html,css&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) <br> 
 
 <br>
 
