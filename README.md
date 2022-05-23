@@ -4,12 +4,14 @@
 
  I am a full-stack software engineer focusing on **TypeScript, Deno, Node, Golang, GCP & AWS Serverless**, and the ever-evolving front-end space **React 18+, React Three Fiber, Threejs, React Native, NextJS**, and the beautiful **Svelte**.
  
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+ 
  <br>
  
  ![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=algoflows&theme=vue-dark)
  
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
 
 <!-- | <img width=100 /> (https://github.com/anuraghazra/github-readme-stats)| <img width=100 /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=algoflows&hide=java,html,css&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) <br> 
 
