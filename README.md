@@ -9,6 +9,12 @@
  ![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=algoflows&theme=vue-dark)
  
  <!--START_SECTION:waka-->
- 
- 
- <!--END_SECTION:waka-->
+
+```text
+JavaScript         21 hrs 43 mins  █████████████▒░░░░░░░░░░░   53.81 %
+TypeScript         12 hrs 13 mins  ███████▓░░░░░░░░░░░░░░░░░   30.27 %
+JSON               2 hrs 40 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
+Other              1 hr 21 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
+```
+
+<!--END_SECTION:waka-->
