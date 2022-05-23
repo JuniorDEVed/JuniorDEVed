@@ -4,8 +4,7 @@
 
  I am a full-stack software engineer focusing on **TypeScript, Deno, Node, Golang, GCP & AWS Serverless**, and the ever-evolving front-end space **React 18+, React Three Fiber, Threejs, React Native, NextJS**, and the beautiful **Svelte**.
  
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!--START_SECTION:waka--><!--END_SECTION:waka-->
  
  <br>
  
