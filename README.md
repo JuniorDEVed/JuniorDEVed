@@ -11,7 +11,7 @@
  <!--START_SECTION:waka-->
 
 ```text
-JavaScript     18 hrs 52 mins  █████████████████████░░░░   83.97 %
+JavaScript     18 hrs 52 mins  █████████████████████░░░░   83.96 %
 JSON           1 hr 24 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
 TypeScript     51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
 Terraform      33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
