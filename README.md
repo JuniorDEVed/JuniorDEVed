@@ -11,12 +11,9 @@
  <!--START_SECTION:waka-->
 
 ```text
-JavaScript       18 hrs 30 mins  ███████████████████████▒░   93.32 %
-Kotlin           1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
-JSON             8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-GitIgnore file   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
-yarn.lock        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-TypeScript       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+JavaScript   18 hrs 22 mins  ████████████████████████▓   99.11 %
+JSON         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+Kotlin       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
