@@ -4,8 +4,6 @@
 
  I am a full-stack software engineer focusing on **TypeScript, Deno, Node, Kotlin, GCP & AWS Serverless**, and the ever-evolving front-end space **React 18+, React Native, NextJS**, and the beautiful **Svelte**.
  
- <br>
- 
  <!--
 https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
 -->
