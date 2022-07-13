@@ -16,6 +16,7 @@ https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mod
 <img src="https://github.com/algoflows/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
 </a>
 
+<br>
  
  <!--START_SECTION:waka-->
 
