@@ -21,11 +21,12 @@ https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mod
  <!--START_SECTION:waka-->
 
 ```text
-JavaScript   14 hrs 13 mins  ████████████████████████▒   97.81 %
-Kotlin       15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
-YAML         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
-XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+JavaScript       10 hrs 49 mins  ███████████████████░░░░░░   76.40 %
+Kotlin           2 hrs 51 mins   █████░░░░░░░░░░░░░░░░░░░░   20.22 %
+XML              16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+GitIgnore file   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+YAML             3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+textmate         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
