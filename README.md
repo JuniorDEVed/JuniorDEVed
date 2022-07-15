@@ -2,7 +2,7 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/JuniorDEVed?style=social)  ![GitHub watchers](https://img.shields.io/github/watchers/JuniorDEVed/JuniorDEVed?style=social)
 
- I am a full-stack software engineer focusing on **TypeScript, Deno, Node, Kotlin, GCP & AWS Serverless**, and the ever-evolving front-end space **React 18+, React Native, NextJS**, and the beautiful **Svelte**.
+ I am a full-stack software engineer focusing on **TypeScript, Go, Node, Kotlin, GCP & AWS Serverless**, and the ever-evolving front-end space **React 18+, React Native, NextJS**, and the beautiful **Svelte**.
  <!--
 https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
 -->
