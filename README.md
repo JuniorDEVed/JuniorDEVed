@@ -1,9 +1,9 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" /> I am Sean.
 ![Twitter Follow](https://img.shields.io/twitter/follow/JuniorDEVed?style=social)  ![GitHub watchers](https://img.shields.io/github/watchers/JuniorDEVed/JuniorDEVed?style=social)
 
- I am a full-stack software engineer focusing on **TypeScript, Go, Node, Kotlin, GCP & AWS Serverless Terraform**, and the ever-evolving front-end space **React 18+, React Native, NextJS**, and the beautiful **Svelte**.
+I am a full-stack software engineer focusing on **TypeScript, Go, Node, Kotlin, GCP & AWS Serverless Terraform**, and the ever-evolving front-end space **React 18+, React Native, NextJS**, and the beautiful **Svelte**.
 
-Currently, I'm working towards Professional **GCP Cloud Developer Certification** and cutting code on a few open source **Terraform provider** projects.
+Currently privately, I'm working towards Professional **GCP Cloud Developer Certification** and cutting code on a few open source **Terraform provider** projects.
 
  <!--
 https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
