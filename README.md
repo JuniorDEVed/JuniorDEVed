@@ -23,10 +23,7 @@ https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mod
  <!--START_SECTION:waka-->
 
 ```text
-JavaScript   1 hr 21 mins    ████████████████▒░░░░░░░░   65.18 %
-JSON         38 mins         ███████▓░░░░░░░░░░░░░░░░░   31.31 %
-Terraform    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
-Bash         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
