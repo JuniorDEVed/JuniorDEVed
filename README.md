@@ -23,12 +23,12 @@ https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mod
  <!--START_SECTION:waka-->
 
 ```text
-JavaScript      6 hrs 9 mins    ██████░░░░░░░░░░░░░░░░░░░   24.43 %
-Kotlin          5 hrs 55 mins   ██████░░░░░░░░░░░░░░░░░░░   23.48 %
-Terraform       5 hrs 3 mins    █████░░░░░░░░░░░░░░░░░░░░   20.05 %
-JSON            2 hrs 46 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.98 %
-Groovy          2 hrs 6 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 %
-XML             1 hr 19 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
+JSON            6 hrs 13 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.16 %
+Kotlin          5 hrs 55 mins   █████░░░░░░░░░░░░░░░░░░░░   20.12 %
+Terraform       5 hrs 3 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.18 %
+JavaScript      4 hrs 49 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.38 %
+Groovy          2 hrs 6 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
+XML             1 hr 19 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
 ```
 
 <!--END_SECTION:waka-->
