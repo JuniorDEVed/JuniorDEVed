@@ -3,7 +3,7 @@
 
 I am a full-stack software engineer focusing on **TypeScript, Node, Kotlin, GCP & AWS Cloud, Serverless, Terraform IAC & Golang**, and the ever-evolving front-end space **React 18+, React Native, NextJS**, and the beautiful **Svelte**.
 
-Currently privately, I'm working towards **Professional GCP Cloud Developer Certification** and also learning Go by supporting open source **Terraform provider** projects.
+Currently privately, I'm working towards **Professional GCP Cloud Developer Certification** and also learning Go by supporting open source **Terraform & Pulumi provider** projects.
 
  <!--
 https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
