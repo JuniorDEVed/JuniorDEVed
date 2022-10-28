@@ -23,12 +23,11 @@ https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mod
  <!--START_SECTION:waka-->
 
 ```text
-TypeScript    12 hrs 18 mins  ██████████▓░░░░░░░░░░░░░░   42.88 %
-JSON          6 hrs 45 mins   ██████░░░░░░░░░░░░░░░░░░░   23.56 %
-Go            3 hrs 10 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.04 %
-JavaScript    2 hrs 24 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 %
-YAML          1 hr 13 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
-Other         53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
+TypeScript    12 hrs 6 mins   ███████████▒░░░░░░░░░░░░░   45.47 %
+JSON          6 hrs 38 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.95 %
+Go            3 hrs 10 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.90 %
+JavaScript    2 hrs 9 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 %
+Other         55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
 ```
 
 <!--END_SECTION:waka-->
