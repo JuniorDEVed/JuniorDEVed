@@ -1,5 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" /> I am Sean.
-![Twitter Follow](https://img.shields.io/twitter/follow/JuniorDEVed?style=social)  ![GitHub watchers](https://img.shields.io/github/watchers/JuniorDEVed/JuniorDEVed?style=social) [![wakatime](https://wakatime.com/badge/user/aa6bcc2e-348b-4f4a-b4ee-654494faa04a.svg)](https://wakatime.com/@aa6bcc2e-348b-4f4a-b4ee-654494faa04a)
+ [![wakatime](https://wakatime.com/badge/user/aa6bcc2e-348b-4f4a-b4ee-654494faa04a.svg)](https://wakatime.com/@aa6bcc2e-348b-4f4a-b4ee-654494faa04a)
 
 I am a full-stack software engineer focusing on **TypeScript, Node, Kotlin, GCP & AWS Cloud, Serverless, Terraform IAC & Golang**, and the ever-evolving front-end space **React 18+, React Native, NextJS**, and the beautiful **Svelte**.
 
