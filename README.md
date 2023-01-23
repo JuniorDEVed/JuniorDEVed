@@ -19,13 +19,5 @@ https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mod
 
 <br>
 <br>
- 
- <!--START_SECTION:waka-->
-
-```text
-Other        62 hrs 23 mins  ██████████████████▓░░░░░░   74.90 %
-```
-
-<!--END_SECTION:waka-->
 
 <img width="140" src="https://badges.images.credential.net/1548277101436.png"><img width="140" src="https://images.credly.com/size/340x340/images/99289602-861e-4929-8277-773e63a2fa6f/image.png">
