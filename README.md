@@ -23,7 +23,7 @@ https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mod
  <!--START_SECTION:waka-->
 
 ```text
-Other        73 hrs 10 mins  ███████████████████▒░░░░░   77.18 %
+Other        62 hrs 23 mins  ██████████████████▓░░░░░░   74.90 %
 ```
 
 <!--END_SECTION:waka-->
