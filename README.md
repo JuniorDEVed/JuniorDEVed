@@ -1,6 +1,9 @@
 ### Hey People <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" />
+
  [![wakatime](https://wakatime.com/badge/user/aa6bcc2e-348b-4f4a-b4ee-654494faa04a.svg)](https://wakatime.com/@aa6bcc2e-348b-4f4a-b4ee-654494faa04a)
+ 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+name's+Sean;A+lifelong+learner;A+functional+programmer;A+pragmatist;A+hobbyist;)](https://git.io/typing-svg)
+
 I am a full-stack software engineer focusing on **TypeScript, Kotlin, GCP & AWS Cloud, Serverless, Terraform IAC & a little Golang**, and the ever-evolving front-end space **React 18+, React Native, NextJS**, and the beautiful **Svelte**.
 
 Currently privately, I'm working towards **Professional GCP Cloud Developer Certification** and also learning Go by supporting open source **Terraform & Pulumi provider** projects.
