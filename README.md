@@ -22,6 +22,6 @@ https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mod
 
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=algoflows&row=2&column=5)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=algoflows&row=2&column=5)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 <img width="140" src="https://badges.images.credential.net/1548277101436.png"><img width="140" src="https://images.credly.com/size/340x340/images/99289602-861e-4929-8277-773e63a2fa6f/image.png">
